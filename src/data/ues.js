@@ -1,0 +1,92 @@
+export const ueData = [
+  {
+    id: "2.6.S5",
+    semester: 5,
+    title: "Processus psychopathologiques",
+    color: "from-violet-500 to-purple-600",
+  },
+  {
+    id: "2.9.S5",
+    semester: 5,
+    title: "Processus tumoraux",
+    color: "from-pink-500 to-rose-600",
+  },
+  {
+    id: "2.11.S5",
+    semester: 5,
+    title: "Pharmacologie et thérapeutiques",
+    color: "from-sky-500 to-blue-600",
+  },
+  {
+    id: "3.3.S5",
+    semester: 5,
+    title: "Rôles infirmiers et interprofessionnalité",
+    color: "from-amber-500 to-orange-600",
+  },
+  {
+    id: "4.2.S5",
+    semester: 5,
+    title: "Soins relationnels",
+    color: "from-emerald-500 to-teal-600",
+  },
+  {
+    id: "4.4.S5",
+    semester: 5,
+    title: "Thérapeutiques et contribution au diagnostic médical",
+    color: "from-cyan-500 to-sky-600",
+  },
+  {
+    id: "4.7.S5",
+    semester: 5,
+    title: "Soins palliatifs et fin de vie",
+    color: "from-indigo-500 to-violet-600",
+  },
+  {
+    id: "5.5.S5",
+    semester: 5,
+    title: "Mise en œuvre des thérapeutiques et coordination des soins",
+    color: "from-red-500 to-rose-600",
+  },
+  {
+    id: "5.7.S5",
+    semester: 5,
+    title: "Unité optionnelle",
+    color: "from-slate-500 to-slate-700",
+  },
+  {
+    id: "6.2.S5",
+    semester: 5,
+    title: "Anglais",
+    color: "from-blue-500 to-indigo-600",
+  },
+  {
+    id: "3.4.S6",
+    semester: 6,
+    title: "Initiation à la démarche de recherche",
+    color: "from-fuchsia-500 to-purple-600",
+  },
+  {
+    id: "4.8.S6",
+    semester: 6,
+    title: "Qualité des soins et évaluation des pratiques",
+    color: "from-green-500 to-emerald-600",
+  },
+  {
+    id: "5.6.S6",
+    semester: 6,
+    title: "Analyse de la qualité et traitement des données scientifiques",
+    color: "from-orange-500 to-red-600",
+  },
+  {
+    id: "5.7.S6",
+    semester: 6,
+    title: "Unité optionnelle",
+    color: "from-slate-500 to-slate-700",
+  },
+  {
+    id: "6.2.S6",
+    semester: 6,
+    title: "Anglais",
+    color: "from-blue-500 to-indigo-600",
+  },
+];
